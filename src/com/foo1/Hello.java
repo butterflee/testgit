@@ -1,4 +1,4 @@
-package com.foo;
+package com.foo1;
 
 public class Hello {
 
